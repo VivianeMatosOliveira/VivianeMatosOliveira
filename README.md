@@ -1,5 +1,6 @@
 ### Olá 👋 Seja bem vindo ao meu GITHUB !!! 😁
 
+Nutricionista em transição de carreira ➡️ Analista de Dados em formação 👩🏻‍🎓 📊
 
 Aos 39 anos e após 15 anos atuando na área da saúde como nutricionista, decidi iniciar uma nova história para minha profissional.
 
