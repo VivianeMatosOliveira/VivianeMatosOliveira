@@ -11,7 +11,7 @@ Digo aventurando, pois NUNCA na minha vida, me imaginei dentro dessa área 🙃
 
 Após muitas pesquisas, optei por recomeçar minha vida profissional apredendo sobre DATA SCIENCE e tenho me supreendido com o 💪 "poder" dos dados.
 
-É incrível como algumas ferramentas nos possibilitam interagir com os dados e dessa forma utilizá-los como matéria prima para a contrução de análises, insights e resolução de problemas 📊
+É incrível como algumas ferramentas nos possibilitam interagir com os dados e dessa forma utilizá-los como matéria prima para a contrução de análises, insights e resolução de problemas 📊. O pandas é minha favorita 😂
 
 Agora eu entendo as famosas frases : " Dados são o novo petróleo "  ou ainda " Sem dados, você é uma pessoa qualquer com uma opinião".
  
