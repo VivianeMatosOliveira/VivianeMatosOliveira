@@ -2,7 +2,7 @@
 
 Nutricionista em transição de carreira ➡️ Analista de Dados em formação 👩🏻‍🎓 📊
 
-Aos 39 anos e após 15 anos atuando na área da saúde como nutricionista, decidi iniciar uma nova história para minha profissional.
+Aos 39 anos e após 15 anos atuando na área de refeições coletivas como nutricionista, gerenciando restaurantes corporativos, decidi iniciar uma nova história para minha profissional.
 
 Virei a página e comecei do zero.
 
