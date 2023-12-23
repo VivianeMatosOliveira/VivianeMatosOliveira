@@ -6,9 +6,8 @@ Aos 39 anos e após 15 anos atuando na área de refeições coletivas como nutri
 
 Virei a página e comecei do zero.
 
-Meu primeiro passo para essa nova jornada foi me propor novos desafios, me aventurando no mundo da tecnologia.
+Meu primeiro passo para essa nova jornada foi me propor novos desafios no mundo da tecnologia.
 
-Digo aventurando, pois NUNCA na minha vida, me imaginei dentro dessa área 🙃
 
 Após muitas pesquisas, optei por recomeçar minha vida profissional apredendo sobre DATA SCIENCE e tenho me supreendido com o 💪 "poder" dos dados.
 
@@ -16,7 +15,6 @@ Após muitas pesquisas, optei por recomeçar minha vida profissional apredendo s
 
 Agora eu entendo as famosas frases : " Dados são o novo petróleo "  ou ainda " Sem dados, você é uma pessoa qualquer com uma opinião".
  
-Para mim, qualquer assunto relacionado a TI é novidade, então tenho me dedicado 💯 % aos estudos 👩🏻‍💻 📖
 
 Nos meus repositórios estou compartilhando as atividades práticas desenvolvidas na minha graduação em Banco de Dados e demais cursos de capacitação, atividades essas, que tem me ajudado a cada dia imergir e interagir com esse mundo incrível da tecnologia e da ciência de dados.
 
